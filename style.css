@@ -1,0 +1,97 @@
+body{
+    margin: auto;
+    width: 1000px;
+    overflow-x: hidden;
+    background-color: #FBFCF8;
+}
+
+header{
+    font-size: 75px;
+    font-family: Helvetica, sans-serif;
+    align-content: center;
+    padding: 60px;
+    width: 100%;
+    color: rgb(93, 26, 26);
+    
+}
+
+h1{
+    font-family: Lucida handwriting, cursive;
+    font-size: 40px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    padding-top: 20px;
+    color: #25261f;
+}
+
+p, ul{
+    font-family: Helvetica, sans-serif;
+    text-align: left;
+}
+
+ul{
+    margin-left: 20px;
+}
+
+.portrait-sizing{
+    width: 471px;
+    height: 558px;
+}
+
+footer{
+    padding-top: 100px;
+}
+
+.Aragon{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Boleyn{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Seymour{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Cleves{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Howard{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Parr{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.main-text{
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+    width: 471px;
+}
+
+a{
+   font-style: italic;
+   text-decoration: none;
+   color: black;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: #4d6604;
+}
